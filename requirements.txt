@@ -6,3 +6,4 @@ dj-database-url
 djangorestframework
 pillow
 python-decouple
+capstone
